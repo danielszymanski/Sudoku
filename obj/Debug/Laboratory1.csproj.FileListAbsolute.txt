@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\sharp\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sharp\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Laboratory1\obj\Debug\Laboratory1.pdb
+C:\Users\Hardisc.pl\Desktop\daniel\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\Hardisc.pl\Desktop\daniel\Laboratory1\obj\Debug\Laboratory1.pdb
+C:\Users\Hardisc.pl\Desktop\daniel\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\Hardisc.pl\Desktop\daniel\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\Hardisc.pl\Desktop\daniel\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache

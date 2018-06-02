@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\sharp\Sudoku\Laboratory1\Laboratory1\bin\Debug\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Sudoku\Laboratory1\Laboratory1\bin\Debug\Laboratory1.pdb
+C:\Users\Admin\Desktop\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.exe
+C:\Users\Admin\Desktop\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.pdb
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp\Sudoku\Laboratory1\Laboratory1\bin\Debug\Laboratory1.exe
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp\Sudoku\Laboratory1\Laboratory1\bin\Debug\Laboratory1.pdb
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.exe
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.pdb
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp - SZTUCZNA\Sudoku\Laboratory1\Laboratory1\bin\Debug\Laboratory1.exe
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp - SZTUCZNA\Sudoku\Laboratory1\Laboratory1\bin\Debug\Laboratory1.pdb
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp - SZTUCZNA\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csprojResolveAssemblyReference.cache
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp - SZTUCZNA\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.csproj.CoreCompileInputs.cache
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp - SZTUCZNA\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.exe
+D:\Z pulpitu\Magiczny folder\ZUT.INF4\sharp - SZTUCZNA\Sudoku\Laboratory1\Laboratory1\obj\Debug\Laboratory1.pdb
